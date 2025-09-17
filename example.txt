@@ -1,3 +1,22 @@
 This is a testing file. I upload this to github!
 
 this is a new line
+
+//mkdir - make directory
+//cp - copy
+//mv - move
+//ls - list
+//cd - change directory
+
+git add, git commit -m <name>, git push
+git init
+git ignore
+
+git branch - to know which branch i am currently working on
+git checkout -b <name of branch> - to make a new branch, naming the new branch
+git checkout <branch name> - change to the branch from another branch
+
+git diff <branch name>
+
+
+
