@@ -8,8 +8,14 @@ this is a new line
 //ls - list
 //cd - change directory
 
-git clone then change directory (cd)
-git add, git commit -m <name>, git push
+git clone
+    then change directory (cd .\<githublink>)
+
+save the file, 
+    git add,
+    git commit -m <name>,
+    git push
+
 git init
 git ignore
 
