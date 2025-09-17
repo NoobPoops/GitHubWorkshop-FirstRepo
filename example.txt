@@ -8,6 +8,7 @@ this is a new line
 //ls - list
 //cd - change directory
 
+git clone then change directory (cd)
 git add, git commit -m <name>, git push
 git init
 git ignore
@@ -17,6 +18,4 @@ git checkout -b <name of branch> - to make a new branch, naming the new branch
 git checkout <branch name> - change to the branch from another branch
 
 git diff <branch name>
-
-
 
